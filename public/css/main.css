@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box !important;
+}
+
+.pd-x{
+    padding-left: 15% !important;
+    padding-right: 15% !important;
+}
+.pd-x-c{
+    padding-left: 21% ;
+    padding-right: 21% ;
+}
+@media only screen and (max-width: 800px) {
+    .pd-x{
+        padding-left: 1% !important;
+        padding-right: 1% !important;
+    }
+    .pd-x-c-s{
+        padding-left: 0px!important;
+        padding-right: 1% !important;
+    }
+}
+
